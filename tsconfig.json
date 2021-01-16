@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+      "outDir": "dist",
+      "noImplicitAny": true,
+      "sourceMap": true,
+      "module": "commonjs",
+      "lib": [
+        "es2018"
+      ],
+      "target": "es5",
+      "allowJs": false,
+      "declaration": true
+    },
+    "exclude": [
+      "node_modules"
+    ]
+}
